@@ -6,9 +6,7 @@
 
 ### Personalized Recommendations: Enjoy tailor-made recommendations based on your viewing history, genre preferences, and ratings.
 
-### Machine Learning Algorithms: Our recommendation system employs state-of-the-art machine learning models to understand your preferences and suggest content accordingly.
-
-### User-friendly Interface: A simple and intuitive interface allows users to easily navigate and explore recommended content.
+### Machine Learning Algorithms: The recommendation system employs machine learning models to understand customer's preferences and suggest content accordingly.
 
 
 ## How It Works
